@@ -4,6 +4,10 @@ Aufgaben als Kartenraster anzeigen,
 per Freitext durchsuchen, nach Status und Priorität filtern sowie Aufgaben
 anlegen, bearbeiten und löschen — alles im Client-State, ganz ohne Backend.
 
+## Demo
+
+<video src="demo-aufgaben-board.mp4" controls width="100%"></video>
+
 ## Voraussetzungen
 
 - **Node.js 20 oder neuer** (LTS empfohlen) inkl. `npm`
