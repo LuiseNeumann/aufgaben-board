@@ -6,7 +6,15 @@ anlegen, bearbeiten und löschen — alles im Client-State, ganz ohne Backend.
 
 ## Demo
 
-<video src="demo-aufgaben-board.mp4" controls width="100%"></video>
+![Demo des Aufgaben-Boards](demo-aufgaben-board.gif)
+
+[Vollständiges Video (55 s, MP4)](demo-aufgaben-board.mp4)
+
+> Hinweis: GitHub spielt MP4-Dateien aus dem Repo in der README nicht
+> inline ab (nur als „View raw"-Link) — dafür läuft das GIF oben überall
+> automatisch. Wer das Vollvideo als Player will: auf github.com die README
+> bearbeiten, die MP4 dort per Drag & Drop einfügen und die erzeugte
+> `user-attachments`-URL verwenden.
 
 ## Voraussetzungen
 
