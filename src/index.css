@@ -1,0 +1,23 @@
+/* Neutrales Basis-Layout. Das Aufgaben-Board bringt seine eigenen
+   Styles mit (features/tasks/TaskBoard.css) und erbt nur die Schrift. */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, "Segoe UI", Roboto, sans-serif;
+  background: #eef1f4;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #0d1419;
+  }
+}
+
+#root {
+  min-height: 100svh;
+}
